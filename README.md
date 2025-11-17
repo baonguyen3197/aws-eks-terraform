@@ -14,3 +14,5 @@ aws-eks-terraform/
         ├── main.tf
         ├── variables.tf
         └── outputs.tf
+
+# AWS EKS Terraform Module
